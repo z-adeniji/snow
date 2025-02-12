@@ -315,7 +315,7 @@
     <div class="drawer-side z-50">
         <label for="sidebar" aria-label="close sidebar" class="drawer-overlay"></label>
         <ul class="menu bg-base-200 text-base-content min-h-full w-80 p-4">
-            <h1>snow beta v1.0</h1>
+            <h1>snow beta v0.1.0</h1>
             <button class="btn mt-5" onclick={() => {
                     currentConversationId = null;
                     conversationHistory = []
