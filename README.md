@@ -1,6 +1,6 @@
-# Snow - A Tauri UI for DeepSeek with Ollama
+# Snow - A Tauri Powered UI for DeepSeek with Ollama
 
-**Snow** is a lightweight desktop application built with Tauri that provides a user-friendly interface for interacting with DeepSeek when running locally using Ollama.
+**Snow** is a lightweight desktop application built with Tauri, Sveltekit & DaisyUI that provides a user-friendly interface for interacting with DeepSeek when running locally using Ollama.
 
 ---
 
@@ -81,7 +81,7 @@ Contributions are welcome! If you'd like to contribute to Snow, please follow th
 
 ## License
 
-Snow is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Snow is licensed under the MIT License. See the [LICENSE](https://mit-license.org) file for more details.
 
 ---
 

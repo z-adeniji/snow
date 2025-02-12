@@ -1,8 +1,8 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "snow",
+  "productName": "Snow",
   "version": "0.1.0",
-  "identifier": "com.snow.app",
+  "identifier": "Snow",
   "build": {
     "beforeDevCommand": "bun run dev",
     "devUrl": "http://localhost:1420",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "snow",
+        "title": "Snow",
         "width": 800,
         "height": 600
       }
@@ -22,6 +22,7 @@
     }
   },
   "bundle": {
+    "publisher": "Snow",
     "active": true,
     "targets": "all",
     "icon": [
